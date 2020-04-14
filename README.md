@@ -1,6 +1,10 @@
 # HPC_DataHub
 COVID-19 Data Hub from Hopkins Population Center
 
+HPC Data Hub Team
+Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
+Students: Aditya Suru, Jiaolong He, Gwyneth Wei
+
 HPC Data Hub Phase 1 Release
 4/13/2020
 
@@ -10,9 +14,6 @@ We plan to release the HPC Data Hub data by phases. The data are public accessib
 
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. We are building a users’ listserv. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions. 
 
-HPC Data Hub Team
-Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
-Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
 Table 1. Summary of HUC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre- and during-Covid19 periods)
 Type	variable	Number of variables	format	Time metric	period
@@ -22,11 +23,8 @@ Policy action	(details)	9	timing
 	(details)	8	Binary (yes/no)		
 unemployment	Labor force	14	count	monthly	Dec2018-Jan2020
 	Unemployment rate	14	rate	monthly	
-Cause-specific mortality	Based population	4	count	annual	2018
-	deaths	4	count		 2018
-2018
-
-	Crude rate	4	rate		 
+Cause-specific mortality	Based population	4	count	annual	2018 deaths	4	count		 2018
+2018 Crude rate	4	rate		 
 Pop. Density per km-2	Popdensity
 	8	rate	annual	2010-2018
 Pop. Density per housing unit	Houseper
