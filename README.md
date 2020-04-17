@@ -6,7 +6,7 @@ Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
 
-# HPC Data Hub Phase 1 Release
+# HPC Data Hub Phase 1 Release Annoucement
 4/15/2020
 
 **Overview:** 
@@ -20,7 +20,7 @@ The success of HPC Data Hub relies on users’ questions, feedback, and suggesti
 **Table 1:** 
 Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre and during COVID-19 periods)
 
-Type |	variable	| Number of variables |	format	| Time metric |	period
+Type |	Variable	| Number of variables |	Format	| Time metric |	Period
 --- | --- | --- | --- |--- |---
 COVID-19	 | 	year-mn-dt_cases	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 – present
 COVID-20	 | 	year-mn-dt_deaths	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 - present
