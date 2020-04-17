@@ -32,9 +32,7 @@ Cause-specific mortality	 | 	Based population	 | 	4	 | 	count	 | 	annual	 | 	201
 Cause-specific mortality	 | 	deaths	 | 	4	 | 	count	 | 	tbd	 | 	2018
 Cause-specific mortality	 | 	Crude rate	 | 	4	 | 	rate	 | 	tbd	 | 	tbd
 Pop. Density per km-2	 | 	Popdensity	 | 	8	 | 	rate	 | 	annual	 | 	2010-2018
-	 | 		 | 		 | 		 | 		 | 	
 Pop. Density per housing unit	 | 	Houseper	 | 	8	 | 	rate	 | 	annual	 | 	2010-2018
-	 | 		 | 		 | 		 | 		 | 	
 Tax filing income brackets and non-filing	 | 	agigrop1-agiprop9	 | 	9	 | 	proportion	 | 	annual	 | 	2017
 Population 	 | 	Total counts	 | 	8	 | 	count	 | 	annual	 | 	2010-2018
 Population 	 | 	ageg1-ageg18	 | 	8*18	 | 	proportion	 | 	annual	 | 	2010-2018
