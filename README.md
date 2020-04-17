@@ -19,7 +19,9 @@ The success of HPC Data Hub relies on users’ questions, feedback, and suggesti
 
 **Table 1:** 
 Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre and during COVID-19 periods)
-Type	variable	Number of variables	format	Time metric	period
+
+Type |	variable	| Number of variables |	format	| Time metric |	period
+--- | --- | --- | --- |--- |---
 COVID-19	year-mn-dt_cases	77	timeseries (count)	daily	1/21/2020 – present
 	year-mn-dt_deaths	77	timeseries (count)	daily	1/21/2020 - present
 Policy action	(details)	9	timing		
