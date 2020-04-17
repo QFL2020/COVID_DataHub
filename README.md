@@ -22,27 +22,26 @@ Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables 
 
 Type |	variable	| Number of variables |	format	| Time metric |	period
 --- | --- | --- | --- |--- |---
-COVID-19	year-mn-dt_cases	77	timeseries (count)	daily	1/21/2020 – present
-	year-mn-dt_deaths	77	timeseries (count)	daily	1/21/2020 - present
-Policy action	(details)	9	timing		
-	(details)	8	binary (yes/no)		
-unemployment	Labor force	14	count	monthly	Dec2018-Jan2020
-	Unemployment rate	14	rate	monthly	Dec2018-Jan2020
-Cause-specific mortality	Based population	4	count	annual	2018
-	deaths	4	count		2018
-	Crude rate	4	rate		 
-Pop. Density per km-2	Popdensity
-	8	rate	annual	2010-2018
-Pop. Density per housing unit	Houseper
-	8	rate	annual	2010-2018
-Tax filing income brackets and non-filing	agigrop1-agiprop9	9	proportion	annual	2017
-Population 	Total counts	8	count	annual	2010-2018
-	ageg1-ageg18	8*18	proportion	annual	2010-2018
-	male	8	proportion	annual	2010-2018
-	Hispanic	8	proportion	annual	2010-2018
-	nH_White	8	proportion	annual	2010-2018
-	nH_Black	8	proportion	annual	2010-2018
-	nH_Indian_Na	8	proportion	annual	2010-2018
-	nH_Asian	8	proportion	annual	2010-2018
-	nH_Hawaii_Na	8	proportion	annual	2010-2018
-
+COVID-19	 | 	year-mn-dt_cases	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 – present
+COVID-20	 | 	year-mn-dt_deaths	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 - present
+Policy action	 | 	(details)	 | 	9	 | 	timing	 | 	tbd	 | 	tbd
+Policy action	 | 	(details)	 | 	8	 | 	binary (yes/no)	 | 	tbd	 | 	tbd
+unemployment	 | 	Labor force	 | 	14	 | 	count	 | 	monthly	 | 	Dec2018-Jan2020
+unemployment	 | 	Unemployment rate	 | 	14	 | 	rate	 | 	monthly	 | 	Dec2018-Jan2020
+Cause-specific mortality	 | 	Based population	 | 	4	 | 	count	 | 	annual	 | 	2018
+Cause-specific mortality	 | 	deaths	 | 	4	 | 	count	 | 	tbd	 | 	2018
+Cause-specific mortality	 | 	Crude rate	 | 	4	 | 	rate	 | 	tbd	 | 	tbd
+Pop. Density per km-2	 | 	Popdensity	 | 	8	 | 	rate	 | 	annual	 | 	2010-2018
+	 | 		 | 		 | 		 | 		 | 	
+Pop. Density per housing unit	 | 	Houseper	 | 	8	 | 	rate	 | 	annual	 | 	2010-2018
+	 | 		 | 		 | 		 | 		 | 	
+Tax filing income brackets and non-filing	 | 	agigrop1-agiprop9	 | 	9	 | 	proportion	 | 	annual	 | 	2017
+Population 	 | 	Total counts	 | 	8	 | 	count	 | 	annual	 | 	2010-2018
+Population 	 | 	ageg1-ageg18	 | 	8*18	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	male	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	Hispanic	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	nH_White	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	nH_Black	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	nH_Indian_Na	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	nH_Asian	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
+Population 	 | 	nH_Hawaii_Na	 | 	8	 | 	proportion	 | 	annual	 | 	2010-2018
