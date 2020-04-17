@@ -1,25 +1,24 @@
 # HPC_DataHub
 COVID-19 Data Hub from Hopkins Population Center
 
-HPC Data Hub Team
+# HPC Data Hub Team
 Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
 
-HPC Data Hub Phase 1 Release
+# HPC Data Hub Phase 1 Release
 4/15/2020
 
+**Overview:** 
 The HPC Data Hub is a newly establish data service infrastructure of Hopkins Population Center (HPC), with its inception on 3/31/2020. The HPC Data Hub is currently focusing on providing critical data at the county level in the United Stated necessary for population-based research on COVID-19 from demographic and social science perspectives and provide evidence-based, timely policy recommendations for curbing the pandemic. As the last few weeks have demonstrated, more timely and effective data on social, economic and health disparities are needed to provide the analysis we need to move ahead of this pandemic and respond appropriately as situations change. 
 
 We plan to release the HPC Data Hub data in phases. The data are publicly accessible at our Github repository ( https://github.com/QFL2020/HPC_DataHub ). The metadata documentation HPC_Data_Hub_Metadata_Phase1.xlsx provides the basic information for users. The repository site includes codes and methodology of our data curations as well as original data sources’ methodological documentation.
 
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. We are building a users’ listserv. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions. 
 
-HPC Data Hub Team
-Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
-Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
-Table 1. Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre and during COVID-19 periods)
+**Table 1:** 
+Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre and during COVID-19 periods)
 Type	variable	Number of variables	format	Time metric	period
 COVID-19	year-mn-dt_cases	77	timeseries (count)	daily	1/21/2020 – present
 	year-mn-dt_deaths	77	timeseries (count)	daily	1/21/2020 - present
