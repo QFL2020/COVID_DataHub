@@ -5,7 +5,7 @@
 - Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
 
-## HPC Data Hub Phase 1 Release Annoucement
+## Phase 1 Release Annoucement
 4/15/2020
 
 **Overview:** 
