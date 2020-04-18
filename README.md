@@ -17,13 +17,13 @@ We plan to release the HPC Data Hub data in phases. The data are publicly access
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. We are building a users’ listserv. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions. 
 
 
-**Table 1:** 
+**Table 1** 
 Summary of HPC Data Hub Phase 1 Release: County Level (a total of 440 variables covering pre and during COVID-19 periods)
 
 Type |	Variable	| Number of variables |	Format	| Time metric |	Period
 --- | --- | --- | --- |--- |---
-COVID-19	 | 	year-mn-dt_cases	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 – present
-COVID-20	 | 	year-mn-dt_deaths	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 - present
+COVID-19-cases	 | 	year-mn-dt_cases	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 – present
+COVID-19-deaths	 | 	year-mn-dt_deaths	 | 	77	 | 	timeseries (count)	 | 	daily	 | 	1/21/2020 - present
 Policy action	 | 	(details)	 | 	9	 | 	timing	 | 	tbd	 | 	tbd
 Policy action	 | 	(details)	 | 	8	 | 	binary (yes/no)	 | 	tbd	 | 	tbd
 unemployment	 | 	Labor force	 | 	14	 | 	count	 | 	monthly	 | 	Dec2018-Jan2020
