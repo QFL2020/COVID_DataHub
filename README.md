@@ -1,6 +1,6 @@
 # COVID-19 Data Hub from Hopkins Population Center
 
-## Team
+## HPC Data Hub Team
 - Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 - Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
