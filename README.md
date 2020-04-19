@@ -7,15 +7,6 @@
 --->
 ## Phase 1 Release
 
-# COVID-19 Data Hub from Hopkins Population Center
-
-<!---
-## Team
-- Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
-- Students: Aditya Suru, Jiaolong He, Gwyneth Wei
---->
-## Phase 1 Release
-
 Introduction: This github repository consists of data relevant for modeling the impact of COVID 19 on social, economic, health and other metrics of population for the United States at a county level granularity. The data will be released in multiple phases. This current is the phase 1 release and consists of the following datasets for the 3220 counties of the United States:
 
 **Pandemic related data**: County wise, daily,  Confirmed cases, deaths due to COVID 19
