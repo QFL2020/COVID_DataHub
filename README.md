@@ -6,7 +6,7 @@
 
 ## HPC Data Hub Phase 1 Release (4/20/2020)
 
-The HPC Data Hub is a newly establish data service infrastructure of Hopkins Population Center (HPC)(https://popcenter.jhu.edu/), with its inception on 3/31/2020. The HPC Data Hub is currently focusing on providing critical data at the county level in the United Stated necessary for population-based research on COVID-19 from demographic and social science perspectives and provide evidence-based, timely policy recommendations for curbing the pandemic. 
+The HPC Data Hub is a newly establish data service infrastructure of [Hopkins Population Center (HPC)](https://popcenter.jhu.edu/), with its inception on 3/31/2020. The HPC Data Hub is currently focusing on providing critical data at the county level in the United Stated necessary for population-based research on COVID-19 from demographic and social science perspectives and provide evidence-based, timely policy recommendations for curbing the pandemic. 
 
 As the last few weeks have demonstrated, timely and effective data on social, economic and health disparities are needed to provide the analysis we need to move ahead of this pandemic and respond appropriately as situations change. Drawing from trusted sources, this data hub aims to provide demographic, social and health data drawn that are shaping this COVID-19 epidemic in the United States. In addition, we include critical data on COVID-19 related policies being rolled out across the country, as well as variables for spatial analysis of socio-economic inequalities. Our data hub endeavors to provide the necessary data to conduct important social science, epidemiological, medical and public health research to paint a clearer picture of this pandemic as it continues and hopefully limit its effects. 
 
