@@ -36,9 +36,10 @@ All users are strongly encouraged to register. That helps us to keep tracking th
 
 [User Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeh1KCx57yQEZiGfem7dWUjyEDxmsr4sU25JOQdH80ERjpGlQ/viewform?usp=pp_url)
 
+<!---
 <a href="Pandemic data and scripts/Pandemic_v1.csv" download>Click to Download</a>
 
 
-<!---
+
 ⬇️ [Download HPC Data Hub Relase 1 dataset (CSV)](https://github.com/QFL2020/HPC_DataHub/blob/master/data/census_unemployment.csv)
 --->
