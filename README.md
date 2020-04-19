@@ -19,14 +19,14 @@ Phase 1 of the HPC Data Hub data includes 517 variables in 3,142 counties in the
 
 In all datasets, county names and FIPS codes are provided to facilitate the merging among the three datasets as well as with external datasets. Each dataset is accompanied by a dictionary with variable labels and data sources.
 
-## Next step
+## Next Steps
 We are currently working on the Phase 2, which includes the following: 
 -	Measures of social distancing behavior with human mobility data
 -	Daily reporting on COVID-19 testing
 -	Ongoing reporting on hospital and healthcare capacity
 We expect to release Phase 2 data on 4/30/2020.
 
-## User registration and feedback
+## User Registration and Feedback
 
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. We are building a registration at the Github repository which feeds to a users’ listserv. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions. 
 
