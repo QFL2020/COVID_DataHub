@@ -4,8 +4,7 @@
 - Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 - Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
-## HPC Data Hub Phase 1 Release
-## 4/20/2020
+## HPC Data Hub Phase 1 Release (4/20/2020)
 
 The HPC Data Hub is a newly establish data service infrastructure of Hopkins Population Center (HPC), with its inception on 3/31/2020. The HPC Data Hub is currently focusing on providing critical data at the county level in the United Stated necessary for population-based research on COVID-19 from demographic and social science perspectives and provide evidence-based, timely policy recommendations for curbing the pandemic. 
 
