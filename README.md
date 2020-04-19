@@ -5,6 +5,13 @@
 - Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 - Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 --->
+
+[User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdomJngQRiPA-2tfa8WQA_nbscVf0y2hV_XRPRjFqnvx80XpA/viewform?usp=pp_url)
+
+
+[User Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeh1KCx57yQEZiGfem7dWUjyEDxmsr4sU25JOQdH80ERjpGlQ/viewform?usp=pp_url)
+
+
 ## Phase 1 Release
 
 Introduction: This github repository consists of data relevant for modeling the impact of COVID 19 on social, economic, health and other metrics of population for the United States at a county level granularity. The data will be released in multiple phases. This is the phase 1 release and consists of the following datasets for the 3220 counties of the United States:
