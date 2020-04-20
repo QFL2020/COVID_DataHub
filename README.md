@@ -1,4 +1,4 @@
-# COVID-19 Data Hub from Hopkins Population Center
+# COVID-19 SES Data Hub from Hopkins Population Center
 
 ## HPC Data Hub Phase 1 Release （4/20/2020）
 
