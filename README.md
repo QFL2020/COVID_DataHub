@@ -8,11 +8,11 @@ The last few weeks have demonstrated that timely and effective data on social, e
 
 The data are publicly accessible at our GitHub repository and will be released in phases.
 
-Phase 1 of the HPC Data Hub data includes 517 variables in 3,142 counties in 50 states and D.C. Phase 1 includes three datasets: 
+Phase 1 of the HPC Data Hub data includes 522 variables in 3,142 counties in 50 states and D.C. Phase 1 includes three datasets: 
 
 -	**Pandemic dataset** (195 variables) during the pandemic period: daily pandemic data (confirmed cases and deaths); county-level policy actions (timing or indicator of the enactment of 17 policy actions, e.g., the date of emergency declaration). 
 -	**Prepandemic dataset** (281 variables) before the pandemic period: health and healthcare disparities, income and tax filing, number of people per housing unit, population density, and demographic structure by age, gender and race-ethnicity.
--	**Unemployment dataset** (41 variables) before and during the pandemic period: monthly data on labor force and unemployment and the county identity of spatial neighbors (for spatial analysis)
+-	**Unemployment dataset** (46 variables) before and during the pandemic period: monthly data on labor force and unemployment and the county identity of spatial neighbors (for spatial analysis)
 
 County names and FIPS codes are provided to facilitate data combination. Each dataset is accompanied by a dictionary with variable labels and data sources.
 
