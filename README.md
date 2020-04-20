@@ -22,7 +22,7 @@ We are currently working on Phase 2, which includes the following:
 -	Ongoing reporting on hospital and healthcare capacity
 We expect to release Phase 2 on 4/30/2020.
 
-## User registration and feedback
+## User Registration and Feedback
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. The Github repository includes a registration form (to inform you of data updates) and a feedback form. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions.
 
 [User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdomJngQRiPA-2tfa8WQA_nbscVf0y2hV_XRPRjFqnvx80XpA/viewform?usp=pp_url)
