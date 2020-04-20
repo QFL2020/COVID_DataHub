@@ -6,6 +6,8 @@ The HPC Data Hub is a newly established data service infrastructure of the [Hopk
 
 The last few weeks have demonstrated that timely and effective data on social, economic and health disparities are needed to respond appropriately to the pandemic as local situations change. Drawing from trusted sources, this data hub curates data on the demographic, social and health factors that influence the spread of COVID-19. The data hub also includes COVID-19 related policies being rolled out across the country. 
 
+The major data sources of socioeconomic (SES) data include Census Bureau, IRS, CDC, Bureau of Labor Statistics, Bureau of Economic Analysis. The COVID-19 data are drawn from JHU CSSE.
+
 The data are publicly accessible at our GitHub repository and will be released in phases.
 
 Phase 1 of the HPC Data Hub data includes 522 variables in 3,142 counties in 50 states and D.C. Phase 1 includes three datasets: 
