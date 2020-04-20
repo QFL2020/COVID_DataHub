@@ -26,6 +26,7 @@ We expect to release Phase 2 on 4/30/2020.
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. The Github repository includes a registration form (to inform you of data updates) and a feedback form. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions.
 
 [User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdomJngQRiPA-2tfa8WQA_nbscVf0y2hV_XRPRjFqnvx80XpA/viewform?usp=pp_url)
+
 [User Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeh1KCx57yQEZiGfem7dWUjyEDxmsr4sU25JOQdH80ERjpGlQ/viewform?usp=pp_url)
 
 ## The HPC Data Hub Team
