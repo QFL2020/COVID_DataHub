@@ -1,40 +1,40 @@
 # COVID-19 Data Hub from Hopkins Population Center
 
-## HPC Data Hub Team
-- Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
-- Students: Aditya Suru, Jiaolong He, Gwyneth Wei
+## HPC Data Hub Phase 1 Release （4/20/2020）
 
-## HPC Data Hub Phase 1 Release (4/20/2020)
+The HPC Data Hub is a newly established data service infrastructure of the [Hopkins Population Center (HPC)](https://popcenter.jhu.edu/). The HPC Data Hub offers critical U.S. county-level data necessary for population-based social science, epidemiological, medical and public health research on COVID-19 to provide evidence-based, timely policy recommendations for curbing the pandemic. 
 
-The HPC Data Hub is a newly establish data service infrastructure of [Hopkins Population Center (HPC)](https://popcenter.jhu.edu/), with its inception on 3/31/2020. The HPC Data Hub is currently focusing on providing critical data at the county level in the United Stated necessary for population-based research on COVID-19 from demographic and social science perspectives and provide evidence-based, timely policy recommendations for curbing the pandemic. 
+The last few weeks have demonstrated that timely and effective data on social, economic and health disparities are needed to respond appropriately to the pandemic as local situations change. Drawing from trusted sources, this data hub curates data on the demographic, social and health factors that influence the spread of COVID-19. The data hub also includes COVID-19 related policies being rolled out across the country. 
 
-As the last few weeks have demonstrated, timely and effective data on social, economic and health disparities are needed to provide the analysis we need to move ahead of this pandemic and respond appropriately as situations change. Drawing from trusted sources, this data hub aims to provide demographic, social and health data drawn that are shaping this COVID-19 epidemic in the United States. In addition, we include critical data on COVID-19 related policies being rolled out across the country, as well as variables for spatial analysis of socio-economic inequalities. Our data hub endeavors to provide the necessary data to conduct important social science, epidemiological, medical and public health research to paint a clearer picture of this pandemic as it continues and hopefully limit its effects. 
+The data are publicly accessible at our GitHub repository and will be released in phases.
 
-We plan release the HPC Data Hub data in phases. The data are publicly accessible at our GitHub repository. The “Data” directory at the repository site includes csv data files and data dictionary files. The “scripts” directory includes codes and methodology of our data curations.
+Phase 1 of the HPC Data Hub data includes 517 variables in 3,142 counties in 50 states and D.C. Phase 1 includes three datasets: 
 
-Phase 1 of the HPC Data Hub data includes 517 variables in 3,142 counties in the continental U.S. The Phase 1 data are divided into three datasets: 
 -	**Pandemic dataset** (195 variables) during the pandemic period: daily pandemic data (confirmed cases and deaths); county-level policy actions (timing or indicator of the enactment of 17 policy actions, e.g., the date of emergency declaration). 
 -	**Prepandemic dataset** (281 variables) before the pandemic period: health and healthcare disparities, income and tax filing, number of people per housing unit, population density, and demographic structure by age, gender and race-ethnicity.
 -	**Unemployment dataset** (41 variables) before and during the pandemic period: monthly data on labor force and unemployment and the county identity of spatial neighbors (for spatial analysis)
 
-In all datasets, county names and FIPS codes are provided to facilitate the merging among the three datasets as well as with external datasets. Each dataset is accompanied by a dictionary with variable labels and data sources.
+County names and FIPS codes are provided to facilitate data combination. Each dataset is accompanied by a dictionary with variable labels and data sources.
 
-## Next Steps
-We are currently working on the Phase 2, which includes the following: 
--	Measures of social distancing behavior with human mobility data
+We are currently working on Phase 2, which includes the following: 
+-	Measures of social distancing behavior using human mobility data
 -	Daily reporting on COVID-19 testing
 -	Ongoing reporting on hospital and healthcare capacity
-We expect to release Phase 2 data on 4/30/2020.
+We expect to release Phase 2 on 4/30/2020.
 
-## User Registration and Feedback
-
-The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. We are building a registration at the Github repository which feeds to a users’ listserv. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions. 
-
-All users are strongly encouraged to register. That helps us to keep tracking the data use and enables to keep you informed when an updated version is released, or errors are noticed in previous releases. 
+## User registration and feedback
+The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. The Github repository includes a registration form (to inform you of data updates) and a feedback form. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions.
 
 [User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdomJngQRiPA-2tfa8WQA_nbscVf0y2hV_XRPRjFqnvx80XpA/viewform?usp=pp_url)
-
 [User Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeh1KCx57yQEZiGfem7dWUjyEDxmsr4sU25JOQdH80ERjpGlQ/viewform?usp=pp_url)
+
+## The HPC Data Hub Team
+Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
+Students: Aditya Suru, Jiaolong He, Gwyneth Wei
+
+
+
+
 
 <!---
 <a href="Pandemic data and scripts/Pandemic_v1.csv" download>Click to Download</a>
