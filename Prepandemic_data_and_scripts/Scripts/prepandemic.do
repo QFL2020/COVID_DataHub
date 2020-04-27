@@ -13,7 +13,7 @@ rename a* a*_
 rename n* n*_
 rename tot tot_
 rename male male_
-reshape8 wide tot_-nH_Hawaii_Na_, i(fips) j(year)
+reshape8 wide tot_-nh_hawaii_na, i(fips) j(year)
 save `t1'
 
 use US_county_Pop_density,clear
