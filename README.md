@@ -32,7 +32,7 @@ The success of HPC Data Hub relies on users’ questions, feedback, and suggesti
 [User Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeh1KCx57yQEZiGfem7dWUjyEDxmsr4sU25JOQdH80ERjpGlQ/viewform?usp=pp_url)
 
 ## The HPC Data Hub Team
-Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
+Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao; 
 Students: Aditya Suru, Jiaolong He, Gwyneth Wei
 
 
