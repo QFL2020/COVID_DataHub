@@ -1,0 +1,63 @@
+* Covid-19 program
+* April 2020
+* Jiaolong He
+
+1. US_county_Pop.do
+          raw data: cty_pop_demo.dta
+          Demographic structure of counties from 07/01/2010 to 07/01/2018
+
+2. US_county_Pop_density.do
+          raw data: ACS_Total_Population_County.csv
+          Population density of counties in 2018
+
+3. US_housing_density.do
+          raw data: PEP_2018_PEPANNHU_with_ann.csv
+          Estimated housing density of counties from 07/01/2010 to 07/01/2018
+
+4. US_county_tax_filling.do
+          raw data: 17incyallagi.csv
+          Estimated proportion of agi groups of counties in 2017
+
+5. US_county_mortality.do
+          raw data: mmr.csv
+          Mortality of 5 kinds disease of counties in 2018
+
+6. US_county_gdp.do
+          raw data: county_gdp.csv
+          GDP of counties from 2015 to 2018
+
+7. US_county_migration.do
+          raw data: mig_cty.csv
+          Estimated migration among counties from 2013 to 2017
+
+8. US_state_uninsured.do
+          raw data: uninsurance.csv
+          Proportion of people without health insurance of counties in 2013, 2016 and 2017 
+
+9. US_county_poverty
+          raw data:ACS_Percent_People_Below_Poverty.csv
+          Proportion of people below poverty line of counties
+
+10. US_county_household_income
+          raw data:ACS_Household_Income_Distribution.csv
+          Total number of household and proportion of each househould income group of counties.
+
+11. US_county_social_determinants
+          raw data:Aggregated_Social_determinants.csv
+          Social determinant variables
+
+12. prepandemic.do
+          Reshape long form data to be wide form data and merge those data as one data.
+
+Note: 1. except US_state_uninsured.do, all other dofiles should run after US_county_Pop.do, and prepandemic.do must run on the end
+          2. .doc files are documentation files about where we can find raw data and describe how to construct data.
+
+
+
+
+
+
+
+
+
+
