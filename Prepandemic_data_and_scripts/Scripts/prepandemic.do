@@ -11,15 +11,11 @@ tempfile t1 t2 t3 t4 t5 t6 t7 t8
 use US_county_Pop,clear
 rename a* a*_
 rename n* n*_
+rename hispanic hispanic_
 rename tot tot_
 rename male male_
-reshape8 wide tot_-nh_hawaii_na, i(fips) j(year)
+reshape8 wide tot_-nhhawaii_, i(fips) j(year)
 save `t1'
-
-use US_county_Pop_density,clear
-rename popdensity popdensity_
-reshape8 wide popdensity_, i(fips) j(year)
-save `t2'
 
 use US_county_housing_density,clear
 rename houseper houseper_
@@ -47,7 +43,7 @@ drop _merge
 merge 1:1 fips using `t3'
 drop _merge
 
-merge 1:1 fips using `t2'
+merge 1:1 fips using US_county_Pop_density
 drop _merge
 
 merge 1:1 fips using `t4'
@@ -59,8 +55,15 @@ drop _merge
 merge 1:1 fips using `t1'
 drop _merge
 
-order stname stfips ctyname ctyfips fips
+merge 1:1 fips using US_county_poverty
+drop _merge
 
+merge 1:1 fips using US_county_household_income
+drop _merge
+
+merge 1:1 fips using US_county_social_determinants.dta
+drop _merge
+order stname stfips ctyname ctyfips fips
 compress
 d
 sum

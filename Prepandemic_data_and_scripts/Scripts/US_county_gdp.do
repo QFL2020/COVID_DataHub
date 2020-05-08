@@ -8,7 +8,6 @@ tempfile t t1 t2 t3 t4 t5 t11 t21 t31
 * GDP of counties from 2015 to 2018
 * Jiaolong He
 
-********Part 1:Prepare 
 use US_county_Pop.dta,clear
 keep stname stfips ctyname ctyfips fips year tot ageg4 ageg5 ageg6 ageg7 ageg8 ageg9 ageg10 ageg11 ageg12 ageg13
 egen wkpop=rowtotal(ageg4 ageg5 ageg6 ageg7 ageg8 ageg9 ageg10 ageg11 ageg12 ageg13)
@@ -23,7 +22,7 @@ rename wkpop wkpop`i'
 save `t`i''
 }
 
-import delim using "C:\Users\Administrator\Dropbox\HPC_data_hub\Phase 1 data release\Prepandemic\raw data\county_gdp.csv",varn(1) stringc(1 2 3 4 5 6 7) numericc(8 9 10 11 12) clear
+import delim using "C:\Users\Administrator\Dropbox\HPC_data_hub\Phase 2 data release\Prepandemic\raw data\county_gdp.csv",varn(1) stringc(1 2 3 4 5 6 7) numericc(8 9 10 11 12) clear
 d
 sum
 gen id=_n
