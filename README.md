@@ -24,16 +24,14 @@ The Phase-2 release data replace the Phase-1 data with important additions. The 
     - Monthly unemployment rate and size of labor force from January 2019 to March 2020
     - The county identity of spatial neighbors (for spatial analysis)
 
-All data files include county names and FIPS codes to facilitate data combination of DataHub files and external files. 
+All data files include county names and FIPS codes to facilitate data combination of DataHub files and external files. The daily data in this Data Hub is scheduled to routine update every Sunday.
 
 We are currently working on Phase 3, which will focus on: 
 1. validating the mobility measures
 2. adding unemployment claims data
 3. Further data on co-morbidities associated with COVID-19 by county
 
-The daily data in this Data Hub is scheduled to routine update every Sunday.
-
-User Registration and Feedback
+## User Registration and Feedback
 The success of HPC Data Hub relies on users’ questions, feedback, and suggestions. The Github repository includes a registration form (to inform you of data updates) and a feedback form. The HPC Data Hub team is devoted to timely responding to users’ questions and suggestions.
 
 [User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdomJngQRiPA-2tfa8WQA_nbscVf0y2hV_XRPRjFqnvx80XpA/viewform?usp=pp_url)
