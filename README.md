@@ -12,6 +12,7 @@ The Phase-2 release data replace the Phase-1 data with important additions. The 
     - Daily data on human mobility and social distancing
     - Timing data on state policy responses
     - Preexisting health care capacity variables
+Data updated on 05/24/2020. 
 
 - **Prepandemic.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format
     -	Existing Health and health care disparity 
