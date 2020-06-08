@@ -23,7 +23,7 @@ The Phase-2 release data replace the Phase-1 data with important additions. The 
     -	Demographic structure by age, gender and race-ethnicity
     - Prevalence rates of diabetes, HIV, and smoking, conditions associated with more severe COVID-19 symptoms
 
-- **Unemployment.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format
+- **Unemployment.zip** (Updated on 06/07/2020) includes 1 datafile in csv format and 1 dictionary in xlsx format
     - Monthly unemployment rate and size of labor force from January 2019 to March 2020
     - The county identity of spatial neighbors (for spatial analysis)
 
