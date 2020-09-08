@@ -2,14 +2,14 @@
 
 ## HPC Data Hub Phase 2 Release (5/18/2020)
 
-## Data updated on 08/10/2020. 
+## Data updated on 09/01/2020. 
 
 The HPC Data Hub is a data service infrastructure of the Hopkins Population Center (HPC). The HPC Data Hub offers U.S. county-level data necessary for population-based social science, epidemiological, medical and public health research on COVID-19 to provide evidence-based, timely policy recommendations for curbing the pandemic. 
 
 Timely and effective data on social, economic and health disparities are needed to respond appropriately to the pandemic as local situations change. Drawing from trusted sources, this data hub curates county-level data on the demographic, social and health factors that influence the spread of COVID-19. The data hub also includes data on the status of COVID-19 related policies being rolled out across the country. 
 
 The Phase-2 release data replace the Phase-1 data with important additions. The data files and the corresponding dictionary files are coupled in 3 zipped files:
-- **Pandemic.zip** (Updated on 08/10/2020) includes 6 datafiles in csv format and dictionary files in csv format
+- **Pandemic.zip** (Updated on 09/01/2020) includes 6 datafiles in csv format and dictionary files in csv format
     - Daily data on COVID-19 tested and confirmed cases and deaths
     - Daily data on human mobility and social distancing
     - Timing data on state policy responses
