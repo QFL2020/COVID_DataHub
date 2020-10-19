@@ -17,7 +17,7 @@ The Phase-2 release data replace the Phase-1 data with important additions. The 
     - State wide race-ethnicity distribution of cases and deaths data
     - State wide Nursing home data
 
-- **Prepandemic.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format
+- **Prepandemic.zip** includes 2 datafile in csv format and 1 dictionary in xlsx format
     -	Existing Health and health care disparity 
     -	Individual tax filing, individual and household income brackets
     -	Population density per area and crowdedness per housing unit
