@@ -8,7 +8,8 @@ The HPC Data Hub is a data service infrastructure of the Hopkins Population Cent
 
 Timely and effective data on social, economic and health disparities are needed to respond appropriately to the pandemic as local situations change. Drawing from trusted sources, this data hub curates county-level data on the demographic, social and health factors that influence the spread of COVID-19. The data hub also includes data on the status of COVID-19 related policies being rolled out across the country. 
 
-The Phase-3 release data replace the Phase-2 data with important additions. The data files and the corresponding dictionary files are coupled in 3 zipped files:
+The Phase-3 release data replace the Phase-2 data with important additions. The data files and the corresponding dictionary files are coupled in 3 zipped files:  
+
 - **Pandemic.zip** (Updated on 09/27/2020) includes 6 datafiles in csv format and dictionary files in csv format
     - Daily data on COVID-19 tested and confirmed cases and deaths
     - Daily data on human mobility and social distancing
@@ -18,7 +19,7 @@ The Phase-3 release data replace the Phase-2 data with important additions. The 
     - State wide Nursing home data
 
 
-- **Prepandemic.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format
+- **Prepandemic.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format  
     -	Existing Health and health care disparity 
     -	Individual tax filing, individual and household income brackets
     -	Population density per area and crowdedness per housing unit
