@@ -2,3 +2,5 @@ Pandemic/
 Scripts/
 Prepandemic/
 Unemployment/
+.DS_Store
+.gitignore
