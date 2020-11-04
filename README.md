@@ -8,7 +8,7 @@ Timely and effective data on social, economic and health disparities are needed 
 
 The Phase-3 release data replace the Phase-2 data with important additions. The data files and the corresponding dictionary files are coupled in 3 zipped files:  
 
-- **Pandemic.zip** (Updated on 09/27/2020) includes 6 datafiles in csv format and dictionary files in csv format
+- **Pandemic.zip** includes 6 datafiles in csv format and dictionary files in csv format
 
     - Daily data on COVID-19 tested and confirmed cases and deaths
     - Daily data on human mobility and social distancing
@@ -26,7 +26,7 @@ The Phase-3 release data replace the Phase-2 data with important additions. The 
     -   Prevalence rates of diabetes, HIV, and smoking, conditions associated with more severe COVID-19 symptoms
     -   Water and sanitation, including dirnking water violations, water variables from American Community Surveys, and estimated use of water
     
-- **Unemployment.zip** (Updated on 06/07/2020) includes 1 datafile in csv format and 1 dictionary in xlsx format
+- **Unemployment.zip** includes 1 datafile in csv format and 1 dictionary in xlsx format
     - Monthly unemployment rate and size of labor force from January 2019 to August 2020
     - The county identity of spatial neighbors (for spatial analysis)
 
