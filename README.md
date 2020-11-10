@@ -1,6 +1,6 @@
 # COVID-19 SES Data Hub, Hopkins Population Center
 
-## HPC Data Hub Phase 3 Release (11/2/2020)
+## HPC Data Hub Phase 3 Release (11/9/2020)
 
 The HPC Data Hub is a data service infrastructure of the Hopkins Population Center (HPC). The HPC Data Hub offers U.S. county-level data necessary for population-based social science, epidemiological, medical and public health research on COVID-19 to provide evidence-based, timely policy recommendations for curbing the pandemic. 
 
@@ -10,7 +10,7 @@ The Phase-3 release data replace the Phase-2 data with important additions. The 
 
 - **Pandemic.zip** includes 6 datafiles in csv format and dictionary files in csv format
 
-    - Daily data on COVID-19 tested and confirmed cases and deaths
+    - Daily data on COVID-19 tested and confirmed cases and deaths (up to 20201109)
     - Daily data on human mobility and social distancing
     - Timing data on state policy responses
     - Preexisting health care capacity variables
@@ -43,4 +43,4 @@ The success of HPC Data Hub relies on users’ questions, feedback, and suggesti
 The HPC Data Hub Team
 Faculty: Dr. Qingfeng Li (lead), Dr. Alexandre White, Dr. Lingxin Hao
 
-Students: Aditya Suru, Apoorv Dayal, Jiaolong He, Giuliana Nicolucci-Altman, Gwyneth Wei
+Students: Aditya Suru, Xingyun Wu, Apoorv Dayal, Jiaolong He, Giuliana Nicolucci-Altman, Gwyneth Wei
